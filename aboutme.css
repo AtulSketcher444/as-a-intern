@@ -1,0 +1,92 @@
+body{
+
+    margin: 217px;;
+    padding:0;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+    background-size:cover;
+
+}
+.box{
+        width:450px;
+        box-align: centre;
+        background: rgba(0,0,0,0.4);
+        padding:40px;
+        text-align: center;
+        margin-top: 5%;
+        color: whitesmoke;
+        font-family: century Georgia, 'Times New Roman', Times, serif;
+        margin:auto;
+        border-radius:160px;
+}
+.box-img{
+border radius: 50%;
+width : 200px;
+height: 200px;
+border-radius: 56px;
+}
+
+.box h1{
+    /*font-size:4;*/
+    letter-spacing:4px;
+    font-weight:100;
+}
+.box h5{
+    color:red;
+    font-size: 25px;
+    letter-spacing:3px;
+    font-weight: 100;
+
+}
+.box p
+{
+    text-align:justify;
+}
+
+
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+
+
+
+
+  ul{
+    margin:0;
+    padding:0;
+
+
+}
+
+.box li{
+
+    display:inline-block;
+    margin:6px;
+    list-style:none;
+
+}
+.box li{
+
+color:white;
+text-decoration:none;
+font-size: 60px;
+transition: all ease-in-out 250ms;
+
+
+}
+.box li a:hover{
+
+    columns: #e96c6c;
+}
